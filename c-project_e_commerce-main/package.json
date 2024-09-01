@@ -1,0 +1,12 @@
+{
+  "name": "shopping-cart",
+  "version": "1.0.0",
+  "description": "A simple shopping cart system using HTML, CSS, JavaScript, Express, and Node.js",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
